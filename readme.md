@@ -1,10 +1,17 @@
-# aleshkev.github.io
+
+_This is a very old version of my website, just for archival purposes._
+
+Stara wersja mojej strony. Wygląd taki minimalistyczny i klasyczny.
+
+Ciężko to zbudować, ale chyba mi się udało. Teraz już tego nie będę ruszał.
+
+## Oryginalny opis
 
 Moja osobista strona, głównie po polsku.
 
 Wykorzystuje własny system budowania strony.
 
-## Licencja
+### Licencja
 
 Kod źródłowy (wszystkie pliki `.py`, `.js`, `.cpp` itp.) są dostępne na [licencji MIT](https://choosealicense.com/licenses/mit/). Wszelka twórczość artystyczna (wszystkie pliki `.sass`, `.md`, `.html` itp. oprócz `theme/reset.scss`, `theme/katex.scss` i `theme/solarized-light.scss`, które to nie są stworzone przeze mnie ale udostępnione na licencjach kolejno BSD, MIT i MIT) jest objęta [pełnymi osobistymi prawami autorskimi](https://choosealicense.com/no-permission/).
 
