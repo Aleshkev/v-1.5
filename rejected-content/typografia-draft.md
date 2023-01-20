@@ -1,0 +1,1 @@
+> Na zrozumiałość oraz czytelność tekstu wpływają także czynniki niejęzykowe, pochodzące z płaszczyzny organizacji graficznej, zwanej też typograficzną. Typografia w ujęciu szerszym obejmuje projektowanie rozkładu ilustracji i innych elementów graficznych w tekście, a w ujęciu węższym odnosi się do graficznego kształtowania tekstu za pomocą dostępnych krojów pisma.
