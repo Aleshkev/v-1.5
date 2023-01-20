@@ -11,7 +11,7 @@
     <meta name="author" content="{% block author %}Jonasz Aleszkiewicz{% endblock %}"/>
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico"/>
 
-    {% assets filters="sass, cssmin", output="style.min.css", "style.sass" %}
+    {% assets filters="sass", output="style.min.css", "style.sass" %}
         <link rel="stylesheet" type="text/css" href="{{ ASSET_URL }}" media="all"/>
     {% endassets %}
 </head>
